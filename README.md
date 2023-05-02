@@ -5,10 +5,10 @@
 - <b>Online Store Web Application (React, NodeJS, MongoDB)</b>
   - [E-Commerce Site](https://github.com/khalidofficial11/e-commerce-website)
 
-- <b>Calculator (Java)</b>
-  - [Simple Calculator](https://github.com/khalidofficial11/Calculator)
+- <b>Java Project</b>
+  - [Excel Data Parser and Visualization Tool for Project Management](https://github.com/khalidofficial11/Calculator)
 
-- <b>Python Projects</b>
+- <b>Python Project</b>
   - [Data Analysis of car resale prices (Jupyter Notebook)](https://github.com/5khalid/DataAnalysisPorject)
 
 - <b>KFUPMTutoring Mobile Application (Software Requirements Specification)</b>

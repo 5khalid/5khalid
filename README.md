@@ -6,7 +6,7 @@
   - [E-Commerce Site](https://github.com/khalidofficial11/e-commerce-website)
 
 - <b>Java Project</b>
-  - [Excel Data Parser and Visualization Tool for Project Management](https://github.com/khalidofficial11/Calculator)
+  - [Excel Data Parser and Visualization Tool for Project Management](https://github.com/5khalid/JavaAppDM)
 
 - <b>Python Project</b>
   - [Data Analysis of car resale prices (Jupyter Notebook)](https://github.com/5khalid/DataAnalysisPorject)

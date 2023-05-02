@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1>Hi, I'm Khalid! <br/>Software Engineering Student, Aspiring Programmer, Problem Solver</h1>
 
-<!--
-**5khalid/5khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Online Store Web Application (React, NodeJS, MongoDB)</b>
+  - [E-Commerce Site](https://github.com/khalidofficial11/e-commerce-website)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Calculator (Java)</b>
+  - [Simple Calculator](https://github.com/khalidofficial11/Calculator)
+
+- <b>Python Projects</b>
+  - [Data Analysis of car resale prices (Jupyter Notebook)](https://github.com/khalidofficial11/Data-Analysis-of-car-resale-prices)
+
+- <b>School Management System (Software Requirements Specification)</b>
+  - [MySchool's SRS Documentation](https://github.com/khalidofficial11/swe216-srs-documentation)
+
+- <b>Inventory Management System (Software Project Management)</b>
+  - [Software Project Management Plan](https://github.com/khalidofficial11/swe387-project-management-plan)
+
+- <b>Parcel Shipping System (Database Systems)</b>
+  - [Database System Architecture](https://github.com/khalidofficial11/ics321-database-systems)
+
+<h2>🤝 Open Source Contributions:</h2>
+
+- [Contributor to Microsoft's VSCode Repository](https://github.com/microsoft/vscode/pulls?q=is%3Apr+author%3Akhalidofficial11+)
+- [Contributor to the FreeCodeCamp Curriculum](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Akhalidofficial11+)
+
+<h2>📚 Certifications and Courses:</h2>
+
+- [Java Programming Certification from Oracle](https://www.youracclaim.com/badges/9e12c10b-b8ca-419c-95df-082fc71f118e/public_url)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-48c03a2a-0b5e-4a9a-9f5f-878dd30375ab/)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Khalid One | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/khalid-one

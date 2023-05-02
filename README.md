@@ -11,11 +11,11 @@
 - <b>Python Projects</b>
   - [Data Analysis of car resale prices (Jupyter Notebook)](https://github.com/5khalid/DataAnalysisPorject)
 
-- <b>School Management System (Software Requirements Specification)</b>
-  - [MySchool's SRS Documentation](https://github.com/khalidofficial11/swe216-srs-documentation)
+- <b>KFUPMTutoring Mobile Application (Software Requirements Specification)</b>
+  - [SRS Documentation](https://github.com/5khalid/SRSDoc)
 
 - <b>Inventory Management System (Software Project Management)</b>
-  - [Software Project Management Plan](https://github.com/khalidofficial11/swe387-project-management-plan)
+  - [Software Project Management Plan](https://github.com/5khalid/ProjectPlan)
 
 - <b>Parcel Shipping System (Database Systems)</b>
   - [Database System Architecture](https://github.com/khalidofficial11/ics321-database-systems)

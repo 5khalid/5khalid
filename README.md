@@ -9,7 +9,7 @@
   - [Simple Calculator](https://github.com/khalidofficial11/Calculator)
 
 - <b>Python Projects</b>
-  - [Data Analysis of car resale prices (Jupyter Notebook)](https://github.com/khalidofficial11/Data-Analysis-of-car-resale-prices)
+  - [Data Analysis of car resale prices (Jupyter Notebook)](https://github.com/5khalid/DataAnalysisPorject)
 
 - <b>School Management System (Software Requirements Specification)</b>
   - [MySchool's SRS Documentation](https://github.com/khalidofficial11/swe216-srs-documentation)

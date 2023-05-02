@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Online Store Web Application (React, NodeJS, MongoDB)</b>
-  - [E-Commerce Site](https://github.com/khalidofficial11/e-commerce-website)
+- <b>Web Development and Design Projects</b>
+  - [Individual Project](https://github.com/khalidofficial11/e-commerce-website)
+  - [Team Project](https://github.com/khalidofficial11/e-commerce-website)
 
 - <b>Java Project</b>
   - [Excel Data Parser and Visualization Tool for Project Management](https://github.com/5khalid/JavaAppDM)

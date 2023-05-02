@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Development and Design Projects</b>
-  - [Individual Project](https://github.com/5khalid/WebInd)
-  - [Team Project](https://github.com/khalidofficial11/e-commerce-website)
+  - [Blog Web Application Project](https://github.com/5khalid/WebInd)
+  - [University Premises Rental(UPR) Web Application Project](https://github.com/5khalid/WebTeamP)
 
 - <b>Java Project</b>
   - [Excel Data Parser and Visualization Tool for Project Management](https://github.com/5khalid/JavaAppDM)

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Development and Design Projects</b>
-  - [Individual Project](https://github.com/khalidofficial11/e-commerce-website)
+  - [Individual Project](https://github.com/5khalid/WebInd)
   - [Team Project](https://github.com/khalidofficial11/e-commerce-website)
 
 - <b>Java Project</b>

@@ -21,15 +21,21 @@
 - <b>Parcel Shipping System (Database Systems)</b>
   - [Database System development](https://github.com/5khalid/DataBase)
 
-<h2>🤝 Open Source Contributions:</h2>
 
-- [Contributor to Microsoft's VSCode Repository](https://github.com/microsoft/vscode/pulls?q=is%3Apr+author%3Akhalidofficial11+)
-- [Contributor to the FreeCodeCamp Curriculum](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Akhalidofficial11+)
+<h2>📚 Courses:</h2>
 
-<h2>📚 Certifications and Courses:</h2>
-
-- [Java Programming Certification from Oracle](https://www.youracclaim.com/badges/9e12c10b-b8ca-419c-95df-082fc71f118e/public_url)
-- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-48c03a2a-0b5e-4a9a-9f5f-878dd30375ab/)
+- SWE 216 Requirements Engineering
+- SWE 316 Software Design and Construction 
+- SWE 326 Software Testing 
+- SWE 363 Web Engineering and Development
+- SWE 387 Software Project Management
+- ICS 104 Introduction to Programming in Python and C 
+- ICS 108 Object-oriented Programming 
+- ICS 202 Data Structures and Algorithms 
+- ICS 253 Discrete Structures 
+- ICS 321 Database Systems 
+- ICS 343 Fundamentals of Computer Networks
+- ICS 344 Information Security 
 
 <h2> 🤳 Connect with me:</h2>
 

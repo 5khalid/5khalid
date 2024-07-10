@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khalid! <br/>A Software Engineering, an Aspiring Programmer, and A Problem Solver</h1>
+<h1>Hi, I'm Khalid! <br/>A Software Engineer, an Aspiring Programmer, and A Problem Solver</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
